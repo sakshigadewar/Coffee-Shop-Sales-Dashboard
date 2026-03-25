@@ -1,5 +1,19 @@
 # ☕ Coffee Shop Sales Dashboard
 
+## 📑 Table of Contents
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Dashboard Preview](#dashboard-preview)
+- [Dataset Information](#dataset-information)
+- [Features](#features)
+- [Tools & Technologies Used](#tools--technologies-used)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Insights & Findings](#insights--findings)
+- [How to Use](#how-to-use)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+
 ## 📌 Overview
 This project presents an interactive **Coffee Shop Sales Dashboard** built using Microsoft Excel. It provides a comprehensive analysis of sales performance across different cities, product categories, and time periods. The dashboard enables quick decision-making by visualizing key business metrics and trends.
 
