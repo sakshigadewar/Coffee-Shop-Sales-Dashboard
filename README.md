@@ -14,114 +14,229 @@
 - [Future Improvements](#future-improvements)
 - [Author](#author)
 
+---
 ## 📌 Overview
-This project presents an interactive **Coffee Shop Sales Dashboard** built using Microsoft Excel. It provides a comprehensive analysis of sales performance across different cities, product categories, and time periods. The dashboard enables quick decision-making by visualizing key business metrics and trends.
+This project showcases an interactive Coffee Shop Sales Dashboard built using Microsoft Excel. The dashboard is designed to analyze and visualize sales performance across different cities, product categories, and time periods.
+
+It highlights key business metrics such as revenue, profit, transactions, and quantity sold, enabling users to gain meaningful insights into sales trends and operational performance. With the help of dynamic filters and visualizations, the dashboard supports data-driven decision-making in a simulated real-world business scenario.
 
 ---
+## 📌 Overview
+The Coffee Shop Sales Dashboard is an Excel-based data analysis project that focuses on transforming raw sales data into actionable business insights. It provides a clear view of performance metrics such as revenue, profit, and transaction trends across multiple dimensions including time, location, and product categories.
 
-## 🎯 Objectives
-- Analyze overall sales performance of the coffee shop
-- Track key metrics like revenue, profit, and transactions
-- Identify top-performing categories and cities
-- Understand monthly and weekday sales trends
-- Enable interactive data exploration using filters
+This project demonstrates the ability to design interactive dashboards, analyze business data, and present insights effectively to support strategic decision-making.
 
 ---
-
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+<img width="1171" height="600" alt="Dashboard" src="https://github.com/user-attachments/assets/27bb99e7-f98c-404a-8bb8-68885781d214" />
+
 
 ---
+### 📊 Data Information
+The dataset contains structured transactional data with the following fields:
 
-## 🗂 Dataset Information
-- **Type:** Simulated / Synthetic dataset  
-- **Fields Included:**
-  - Date
-  - Year
-  - Month
-  - City
-  - Category
-  - Product
-  - Transactions
-  - Quantity Sold
-  - Revenue
-  - Profit  
+- **Date** – The date of each transaction  
+- **Year** – Year of the transaction (2021–2023)  
+- **Month** – Month of the transaction  
+- **City** – Location where the sale occurred  
+- **Category** – Product category (e.g., Coffee, Tea, Snacks, Desserts, Sandwiches, Cold Drinks)  
+- **Product** – Specific product sold  
+- **Transactions** – Number of transactions recorded  
+- **Quantity** – Total units sold  
+- **Revenue** – Total sales revenue generated (in USD)  
+- **Profit** – Net profit earned from sales  
 
 ---
-
 ## ⚙️ Features
-- Interactive **Slicers** (Year, Month, City)
-- KPI Cards:
-  - Total Revenue
-  - Total Profit
-  - Total Transactions
-  - Total Quantity Sold
-- Visualizations:
-  - Revenue by Category
-  - Monthly Transactions Trend
-  - Weekday Transaction Analysis
-  - Revenue by City
-  - Monthly Profit vs Revenue
-- Clean and user-friendly dashboard design
+
+- 📊 **Interactive Dashboard**  
+  User-friendly and visually appealing dashboard for analyzing sales data.
+
+- 🎛 **Dynamic Filters (Slicers)**  
+  Filter data by Year, Month, and City for customized analysis.
+
+- 📈 **KPI Tracking**  
+  Displays key metrics such as Total Revenue, Total Profit, Total Transactions, and Quantity Sold.
+
+- 🧩 **Category-wise Analysis**  
+  Visual representation of revenue distribution across product categories.
+
+- 📅 **Time-based Trends**  
+  Monthly and weekday analysis to identify sales patterns and peak periods.
+
+- 🌍 **City-wise Performance**  
+  Compare revenue contribution across different cities.
+
+- 📉 **Profit vs Revenue Comparison**  
+  Track financial performance over time.
+
+- 🎨 **Clean and Professional UI**  
+  Well-structured layout with consistent color theme for better readability.
+
+- ⚡ **Fast Data Insights**  
+  Enables quick understanding of business performance through visuals.
 
 ---
-
 ## 🛠 Tools & Technologies Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers & Filters
-- Data Cleaning & Transformation
+
+- **Microsoft Excel**
+  - Data cleaning and preprocessing
+  - Dashboard creation and design
+
+- **Pivot Tables**
+  - Data summarization and aggregation
+  - KPI calculations (Revenue, Profit, Transactions)
+
+- **Pivot Charts**
+  - Visual representation of sales trends and category performance
+
+- **Slicers & Filters**
+  - Interactive data filtering (Year, Month, City)
+
+- **Data Visualization Techniques**
+  - Bar Charts
+  - Line Charts
+  - KPI Cards
+  - Trend Analysis
+
+- **Dataset (CSV Format)**
+  - Structured sales data for analysis and reporting
+
+    ---
+    ## 📈 Key Performance Indicators (KPIs)
+
+The dashboard tracks the following key metrics to evaluate overall business performance:
+
+### 🔹 Total Revenue
+Represents the total income generated from all sales transactions across different cities and categories.
+
+### 🔹 Total Profit
+Indicates the net earnings after deducting costs, helping measure business profitability.
+
+### 🔹 Total Transactions
+Shows the total number of customer orders processed, reflecting sales volume and activity.
+
+### 🔹 Total Quantity Sold
+Displays the total number of items sold, useful for understanding product demand.
+
+### 🔹 Average Order Value (AOV)
+Calculated as:
+Revenue ÷ Transactions  
+Helps analyze customer spending behavior per order.
+
+### 🔹 Profit Margin (%)
+Calculated as:
+(Profit ÷ Revenue) × 100  
+Measures overall efficiency and profitability of the business.
+
+### 🔹 Category-wise Revenue
+Breakdown of total revenue generated by each product category to identify top-performing segments.
+
+### 🔹 City-wise Revenue
+Shows revenue contribution from different cities to analyze regional performance.
+
+### 🔹 Monthly Sales Trend
+Tracks revenue and transactions over time to identify growth patterns and seasonality.
+
+### 🔹 Weekday Sales Analysis
+Analyzes transaction patterns across different days of the week to identify peak business days.
 
 ---
-
-## 📈 Key Performance Indicators (KPIs)
-- **Total Revenue:** Overall income generated
-- **Total Profit:** Net earnings after costs
-- **Transactions:** Total number of sales
-- **Quantity Sold:** Total units sold
-
----
-
 ## 🔍 Insights & Findings
-- Desserts and Sandwiches contribute the highest revenue
-- Fridays show peak transaction activity
-- Sales remain relatively stable throughout the year
-- Certain cities consistently outperform others in revenue
 
----
+- **Top Performing Categories:**  
+  Desserts and Sandwiches generate the highest revenue, indicating strong customer preference for these product segments.
 
-## 🚀 How to Use
-1. Download the Excel file from this repository  
-2. Open in Microsoft Excel (2016 or later recommended)  
-3. Use slicers (Year, Month, City) to filter data  
-4. Explore charts and KPIs for insights  
+- **Peak Sales Day:**  
+  Friday records the highest number of transactions, suggesting increased customer activity at the end of the workweek.
 
----
+- **Stable Monthly Performance:**  
+  Sales remain relatively consistent across months, with slight growth observed during mid-year periods.
 
-## 📁 Project Structure
-coffee-sales-dashboard/
+- **City-wise Revenue Trends:**  
+  Certain cities consistently outperform others in terms of revenue, highlighting location-based demand variations.
+
+- **Product Demand Patterns:**  
+  Coffee beverages and snacks maintain steady demand, contributing significantly to overall transactions.
+
+- **Revenue vs Profit Relationship:**  
+  Higher revenue categories also contribute more to profit, indicating efficient pricing and cost management.
+
+- **Customer Buying Behavior:**  
+  Increased quantity sold during peak days suggests bulk or group purchases, especially on weekends or high-traffic days.
+
+- **Operational Insight:**  
+  Staffing and inventory planning can be optimized by focusing on high-demand days (like Friday) and top-performing categories.
+
+  ---
+  ## 🚀 How to Use
+
+1. **Download the Project Files**
+   - Clone this repository or download the ZIP file
+   - Extract the files to your local system
+
+2. **Open the Dashboard**
+   - Open the `coffee_sales_dashboard.xlsx` file in Microsoft Excel  
+   - (Recommended: Excel 2016 or later)
+
+3. **Interact with the Dashboard**
+   - Use the slicers (Year, Month, City) to filter data
+   - Click on charts to explore detailed insights
+   - Hover over visuals to view exact values
+
+4. **Analyze Key Metrics**
+   - Review KPI cards for Revenue, Profit, Transactions, and Quantity Sold
+   - Observe trends in monthly performance and weekday sales
+   - Compare category-wise and city-wise sales
+
+5. **Modify or Customize**
+   - Update the dataset (`coffee_sales_data.csv`) with new data
+   - Refresh Pivot Tables to reflect changes
+   - Customize visuals or add new KPIs as needed
+
+6. **Use for Learning or Portfolio**
+   - Understand how Excel dashboards are structured
+   - Showcase this project in your resume or portfolio
+
+   ---
+   coffee-sales-dashboard/
 │
-├── coffee_sales_dashboard.xlsx
-├── coffee_sales_data.csv
-├── dashboard.png
-└── README.md
-
+├── data/
+│   └── coffee_sales_data.csv          # Dataset used for analysis
+│
+├── dashboard/
+│   └── coffee_sales_dashboard.xlsx   # Main Excel dashboard file
+│
+├── images/
+│   └── dashboard.png                 # Dashboard screenshot for preview
+│
+├── docs/
+│   └── project_summary.md            # Optional: detailed explanation
+│
+└── README.md                         # Project documentation
+ 
 ---
-
 ## 🔮 Future Improvements
-- Add Profit Margin and Average Order Value (AOV)
-- Integrate Power BI version of the dashboard
-- Use real-world dataset for deeper analysis
-- Add forecasting and trend prediction
 
----
+- Add advanced KPIs such as **Profit Margin (%)** and **Average Order Value (AOV)**  
+- Implement **dynamic forecasting** to predict future sales trends  
+- Enhance dashboard design with improved color themes and better data labeling  
+- Integrate additional filters (e.g., Product-level filtering) for deeper analysis  
+- Use a **real-world dataset** for more accurate and practical insights  
+- Automate data updates using Power Query or external data connections  
+- Develop a **Power BI version** of the dashboard for advanced visualization  
+- Include customer segmentation analysis for better business understanding  
+- Add drill-down functionality to explore detailed data from summary visuals  
+- Improve performance optimization for handling larger datasets
 
+----
 ## 👩‍💻 Author
 **Sakshi Gadewar**  
-- Skilled in Excel, Data Analysis, and Dashboard Creation  
 
----
+- Aspiring Data Analyst / Operations Analyst  
+- Skilled in Microsoft Excel, Data Analysis, and Dashboard Creation  
+- Passionate about turning data into actionable insights  
 
-## ⭐ Acknowledgment
-This project is created for learning and portfolio purposes to demonstrate data analysis and visualization skills.
+📫 Connect with me:  
+- LinkedIn: www.linkedin.com/in/sakshi-gadewar-604175343  
+- Email: sakshigadewar78@gmail.com
