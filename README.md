@@ -1,24 +1,10 @@
-# Coffee-Shop-Sales-Dashboard
-Designed a sales dashboard to identify top-performing categories, peak transaction days, and city-wise revenue trends, helping simulate real-world business decision-making using Excel analytics tools.
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [Dashboard Preview](#dashboard-preview)
-- [Dataset Information](#dataset-information)
-- [Features](#features)
-- [Tools & Technologies Used](#tools--technologies-used)
-- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
-- [Insights & Findings](#insights--findings)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [Author](#author)
+# ☕ Coffee Shop Sales Dashboard
 
-  ---
-  ## 📌 Overview
+## 📌 Overview
 This project presents an interactive **Coffee Shop Sales Dashboard** built using Microsoft Excel. It provides a comprehensive analysis of sales performance across different cities, product categories, and time periods. The dashboard enables quick decision-making by visualizing key business metrics and trends.
 
 ---
+
 ## 🎯 Objectives
 - Analyze overall sales performance of the coffee shop
 - Track key metrics like revenue, profit, and transactions
@@ -27,9 +13,9 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 - Enable interactive data exploration using filters
 
 ---
-## 📊 Dashboard Preview
-<img width="1171" height="600" alt="Dashboard" src="https://github.com/user-attachments/assets/8531958e-fdeb-4c86-a5d8-60c7e26eefdd" />
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
@@ -100,14 +86,12 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 ---
 
 ## 📁 Project Structure
-
 coffee-sales-dashboard/
 │
 ├── coffee_sales_dashboard.xlsx
 ├── coffee_sales_data.csv
 ├── dashboard.png
 └── README.md
-
 
 ---
 
@@ -120,7 +104,7 @@ coffee-sales-dashboard/
 ---
 
 ## 👩‍💻 Author
-**Sakshee Gadewar**   
+**Sakshi Gadewar**  
 - Skilled in Excel, Data Analysis, and Dashboard Creation  
 
 ---
