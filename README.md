@@ -12,6 +12,7 @@
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
 - [Future Improvements](#future-improvements)
+- [Acknowledgement](#acknowledgement)
 - [Author](#author)
 
 ---
@@ -21,18 +22,21 @@ This project showcases an interactive Coffee Shop Sales Dashboard built using Mi
 It highlights key business metrics such as revenue, profit, transactions, and quantity sold, enabling users to gain meaningful insights into sales trends and operational performance. With the help of dynamic filters and visualizations, the dashboard supports data-driven decision-making in a simulated real-world business scenario.
 
 ---
-## 📌 Overview
-The Coffee Shop Sales Dashboard is an Excel-based data analysis project that focuses on transforming raw sales data into actionable business insights. It provides a clear view of performance metrics such as revenue, profit, and transaction trends across multiple dimensions including time, location, and product categories.
-
-This project demonstrates the ability to design interactive dashboards, analyze business data, and present insights effectively to support strategic decision-making.
-
+## 🎯 Objectives
+- To analyze coffee shop sales data across different cities, categories, and time periods  
+- To track key business metrics such as revenue, profit, transactions, and quantity sold  
+- To identify top-performing product categories and high-revenue locations  
+- To understand monthly and weekday sales trends for better decision-making  
+- To build an interactive and user-friendly dashboard using Excel  
+- To demonstrate data analysis, visualization, and business insight generation skills
+  
 ---
 ## 📊 Dashboard Preview
 <img width="1171" height="600" alt="Dashboard" src="https://github.com/user-attachments/assets/27bb99e7-f98c-404a-8bb8-68885781d214" />
 
 
 ---
-### 📊 Data Information
+### 📊 Dataset Information
 The dataset contains structured transactional data with the following fields:
 
 - **Date** – The date of each transaction  
@@ -228,6 +232,13 @@ Analyzes transaction patterns across different days of the week to identify peak
 - Include customer segmentation analysis for better business understanding  
 - Add drill-down functionality to explore detailed data from summary visuals  
 - Improve performance optimization for handling larger datasets
+
+---
+## ⭐ Acknowledgement
+
+This project was developed as part of my self-learning journey in data analysis using Microsoft Excel. I explored various online tutorials, documentation, and practice resources to enhance my understanding of data visualization, dashboard creation, and business analytics.
+
+The dataset used in this project is synthetic and created for learning and demonstration purposes. This project reflects my effort to apply analytical thinking and transform raw data into meaningful insights through an interactive dashboard.
 
 ----
 ## 👩‍💻 Author
