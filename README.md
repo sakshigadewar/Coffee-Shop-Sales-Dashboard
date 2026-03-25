@@ -16,13 +16,13 @@
 - [Author](#author)
 
 ---
-## 📌 Overview
+## Overview
 This project showcases an interactive Coffee Shop Sales Dashboard built using Microsoft Excel. The dashboard is designed to analyze and visualize sales performance across different cities, product categories, and time periods.
 
 It highlights key business metrics such as revenue, profit, transactions, and quantity sold, enabling users to gain meaningful insights into sales trends and operational performance. With the help of dynamic filters and visualizations, the dashboard supports data-driven decision-making in a simulated real-world business scenario.
 
 ---
-## 🎯 Objectives
+## Objectives
 - To analyze coffee shop sales data across different cities, categories, and time periods  
 - To track key business metrics such as revenue, profit, transactions, and quantity sold  
 - To identify top-performing product categories and high-revenue locations  
@@ -31,12 +31,12 @@ It highlights key business metrics such as revenue, profit, transactions, and qu
 - To demonstrate data analysis, visualization, and business insight generation skills
   
 ---
-## 📊 Dashboard Preview
+## Dashboard Preview
 <img width="1171" height="600" alt="Dashboard" src="https://github.com/user-attachments/assets/27bb99e7-f98c-404a-8bb8-68885781d214" />
 
 
 ---
-### 📊 Dataset Information
+### Dataset Information
 The dataset contains structured transactional data with the following fields:
 
 - **Date** – The date of each transaction  
@@ -51,7 +51,7 @@ The dataset contains structured transactional data with the following fields:
 - **Profit** – Net profit earned from sales  
 
 ---
-## ⚙️ Features
+## Features
 
 - 📊 **Interactive Dashboard**  
   User-friendly and visually appealing dashboard for analyzing sales data.
@@ -107,7 +107,7 @@ The dataset contains structured transactional data with the following fields:
   - Structured sales data for analysis and reporting
 
     ---
-    ## 📈 Key Performance Indicators (KPIs)
+    ## Key Performance Indicators (KPIs)
 
 The dashboard tracks the following key metrics to evaluate overall business performance:
 
@@ -146,7 +146,7 @@ Tracks revenue and transactions over time to identify growth patterns and season
 Analyzes transaction patterns across different days of the week to identify peak business days.
 
 ---
-## 🔍 Insights & Findings
+## Insights & Findings
 
 - **Top Performing Categories:**  
   Desserts and Sandwiches generate the highest revenue, indicating strong customer preference for these product segments.
@@ -173,7 +173,7 @@ Analyzes transaction patterns across different days of the week to identify peak
   Staffing and inventory planning can be optimized by focusing on high-demand days (like Friday) and top-performing categories.
 
   ---
-  ## 🚀 How to Use
+  ## How to Use
 
 1. **Download the Project Files**
    - Clone this repository or download the ZIP file
@@ -203,24 +203,17 @@ Analyzes transaction patterns across different days of the week to identify peak
    - Showcase this project in your resume or portfolio
 
    ---
-   coffee-sales-dashboard/
+  ## Project Structure
+
+coffee-sales-dashboard/
 │
-├── data/
-│   └── coffee_sales_data.csv          # Dataset used for analysis
-│
-├── dashboard/
-│   └── coffee_sales_dashboard.xlsx   # Main Excel dashboard file
-│
-├── images/
-│   └── dashboard.png                 # Dashboard screenshot for preview
-│
-├── docs/
-│   └── project_summary.md            # Optional: detailed explanation
-│
-└── README.md                         # Project documentation
+├── coffee_sales_dashboard.xlsx   # Main Excel dashboard file
+├── coffee_sales_data.csv         # Dataset used for analysis
+├── dashboard.png                 # Dashboard screenshot preview
+└── README.md                     # Project documentation
  
 ---
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add advanced KPIs such as **Profit Margin (%)** and **Average Order Value (AOV)**  
 - Implement **dynamic forecasting** to predict future sales trends  
@@ -234,20 +227,20 @@ Analyzes transaction patterns across different days of the week to identify peak
 - Improve performance optimization for handling larger datasets
 
 ---
-## ⭐ Acknowledgement
+## Acknowledgement
 
 This project was developed as part of my self-learning journey in data analysis using Microsoft Excel. I explored various online tutorials, documentation, and practice resources to enhance my understanding of data visualization, dashboard creation, and business analytics.
 
 The dataset used in this project is synthetic and created for learning and demonstration purposes. This project reflects my effort to apply analytical thinking and transform raw data into meaningful insights through an interactive dashboard.
 
 ----
-## 👩‍💻 Author
+## Author
 **Sakshi Gadewar**  
 
 - Aspiring Data Analyst / Operations Analyst  
 - Skilled in Microsoft Excel, Data Analysis, and Dashboard Creation  
 - Passionate about turning data into actionable insights  
 
-📫 Connect with me:  
+ Connect with me:  
 - LinkedIn: www.linkedin.com/in/sakshi-gadewar-604175343  
 - Email: sakshigadewar78@gmail.com
