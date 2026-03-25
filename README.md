@@ -28,6 +28,8 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ---
 ## 📊 Dashboard Preview
+<img width="1171" height="600" alt="Dashboard" src="https://github.com/user-attachments/assets/8531958e-fdeb-4c86-a5d8-60c7e26eefdd" />
+
 
 ---
 
